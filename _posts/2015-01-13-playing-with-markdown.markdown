@@ -1,7 +1,7 @@
-<h1>Ain't Life Grand?</h1>
+<h1>I'm really just playing with markdown here</h1>
 
-Playing With Markdown
----------------------
+I'm just Playing With Markdown
+---
 
 Here we are, playing with markdown 
 

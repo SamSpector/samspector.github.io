@@ -1,3 +1,7 @@
+---
+title: First Post
+layout: post
+---
 <h1>I'm really just playing with markdown here</h1>
 
 Markdown with the dashes below for a heading

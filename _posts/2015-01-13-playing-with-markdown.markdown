@@ -25,6 +25,6 @@ Below is an unordered list:
 Inline syntax for images 
 
 ```` 
-    ![alt text](/path/to/img.ext
+    ![alt text](/path/to/img.ext)
 ````
 ![this is a random cat picture]../images/download.jpg

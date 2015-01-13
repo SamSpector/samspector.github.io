@@ -28,3 +28,10 @@ Inline syntax for images
     ![alt text](/path/to/img.ext)
 ````
 ![this is a random cat picture](/images/download.jpg)
+![this is a cat picture](images/download.jpg)
+![this is a cat picture](_posts/images/download.jpg)
+![this is a cat picture](/_posts/images/download.jpg)
+
+
+
+

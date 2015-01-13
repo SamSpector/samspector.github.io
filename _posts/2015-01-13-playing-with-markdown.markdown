@@ -33,4 +33,7 @@ Inline syntax for images must be wrong; just use html I guess.
 
 <img src="https://www.google.com/images/srpr/logo11w.png">
 
+Gotta figure out how to use the damn partials.
 
+
+[home](http://samspector.github.io)

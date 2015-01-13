@@ -1,7 +1,8 @@
 <h1>I'm really just playing with markdown here</h1>
 
-I'm Just Playing With Markdown
+Markdown with the dashes below for a heading
 ---
+###  Numbers of number symbols makes seems simpler.
 
 Here we are, playing with markdown 
 

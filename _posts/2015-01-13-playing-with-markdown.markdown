@@ -22,3 +22,9 @@ Below is an unordered list:
 
 [Google](http://google.com)
   
+Inline syntax for images 
+
+```` 
+    ![alt text](/path/to/img.ext
+````
+![this is a random cat picture]../images/download.jpg

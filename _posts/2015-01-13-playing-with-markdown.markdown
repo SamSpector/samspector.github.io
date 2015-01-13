@@ -35,5 +35,4 @@ Inline syntax for images must be wrong; just use html I guess.
 
 Gotta figure out how to use the damn partials.
 
-
 [home](http://samspector.github.io)

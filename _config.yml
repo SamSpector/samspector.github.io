@@ -1,0 +1,12 @@
+# Site settings
+title: Aint Life Grand
+email: tbd123@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ This is a Jekyll powered blog. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: not_applicable
+github_username: samspector
+
+# Build settings
+markdown: kramdown

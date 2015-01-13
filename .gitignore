@@ -1,2 +1,13 @@
 _site
 .sass-cache
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+

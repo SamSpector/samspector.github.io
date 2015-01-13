@@ -22,13 +22,13 @@ Below is an unordered list:
 
 [Google](http://google.com)
   
-Inline syntax for images 
+Inline syntax for images must be wrong; just use html I guess.
 
 ```` 
     ![alt text](/path/to/img.ext)
 ````
 [google image](https://www.google.com/images/srpr/logo11w.png)
 
-
+<img src="https://www.google.com/images/srpr/logo11w.png">
 
 

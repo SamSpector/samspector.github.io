@@ -2,7 +2,8 @@
 
 Markdown with the dashes below for a heading
 ---
-###  Numbers of number symbols makes seems simpler.
+
+#### Numbers of number symbols seems simpler than the various header designators.
 
 Here we are, playing with markdown 
 

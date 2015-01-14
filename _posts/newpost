@@ -1,0 +1,7 @@
+echo "enter post name"
+read post_name
+touch `date "+%Y-%m-%d-"`$post_name.markdown
+echo "---" >> `date "+%Y-%m-%d-"`$post_name.markdown
+echo "title: $post_name" >> `date "+%Y-%m-%d-"`$post_name.markdown
+echo "layout: post" >> `date "+%Y-%m-%d-"`$post_name.markdown
+echo "---" >> `date "+%Y-%m-%d-"`$post_name.markdown

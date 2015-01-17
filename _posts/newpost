@@ -1,7 +1,7 @@
 #use in _posts folder
 #chmod +x (obviously)
 #makes a new post for the jekyll bloggin engine and opens it
-echo "enter post name"
+echo "enter post name, do not use _ or any other special characters"
 read post_name
 touch `date "+%Y-%m-%d-"`$post_name.markdown
 echo -e "---\ntitle:$post_name\nlayout: post\n---\n" >>  `date "+%Y-%m-%d-"`$post_name.markdown

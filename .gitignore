@@ -1,6 +1,4 @@
 _site
-<<<<<<< HEAD
-=======
 .sass-cache
 *.diff
 *.err
@@ -14,4 +12,6 @@ _site
 *~
 _posts/newpost
 notes
->>>>>>> c9a17bfbd7fbdc52bd4e942d5783d41146df8b1a
+2015-01-13-First-Post.markdown
+2015-01-14-Disqus-Test.markdown
+2015-01-17-template_test.markdown

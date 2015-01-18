@@ -1,1 +1,17 @@
 _site
+<<<<<<< HEAD
+=======
+.sass-cache
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+_posts/newpost
+notes
+>>>>>>> c9a17bfbd7fbdc52bd4e942d5783d41146df8b1a

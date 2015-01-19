@@ -1,0 +1,11 @@
+---
+layout: default
+img: blog.jpg
+category: Services
+title: I have a blog
+description: |
+  <p class="lead">I have a nifty <a target="_blank"
+  href="http://gentle-badlands-3090.herokuapp.com/">blog</a>hosted on heroku 
+  Heroku instances may be slow to start if idle a long time.</p>
+  Something I intend to fix using my rpi and a cron task shortly.
+---

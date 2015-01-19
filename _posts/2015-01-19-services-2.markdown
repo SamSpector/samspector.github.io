@@ -2,8 +2,8 @@
 layout: default
 img: blog.jpg
 category: Services
-title: I have a blog
+title: I have thoughts about things.
 description: |
-  <p class="lead">I have a nifty <a target="_blank"
-  href="http://gentle-badlands-3090.herokuapp.com/">blog</a> also hosted on heroku.</p>
+  <p class="lead">Read them on my nifty <a target="_blank"
+  href="http://gentle-badlands-3090.herokuapp.com/">blog</a>, also hosted on heroku.</p>
 ---

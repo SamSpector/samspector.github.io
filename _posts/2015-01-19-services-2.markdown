@@ -5,5 +5,5 @@ category: Services
 title: I have thoughts about things.
 description: |
   <p class="lead">Read them on my nifty <a target="_blank"
-  href="http://gentle-badlands-3090.herokuapp.com/">blog</a>, also hosted on heroku.</p>
+  href="http://spectorblog.herokuapp.com/">blog</a>, also hosted on heroku.</p>
 ---

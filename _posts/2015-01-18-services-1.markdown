@@ -5,6 +5,5 @@ category: Services
 title: GA Summer 2013
 description: |
   <p class="lead">My Final Data-Visualization Project at GA NYC: <a target="_blank"
-  href="http://byeny.herokuapp.com/">BYENY</a><br> 
-  Heroku instances may take ~30s to launch if idle for long time.</p>
+  href="http://byeny.herokuapp.com/">BYENY</a></p> 
 ---

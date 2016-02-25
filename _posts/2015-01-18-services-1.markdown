@@ -2,6 +2,7 @@
 layout: default
 img: byeny.jpg 
 category: Services
+description: |
 title: Data Visualization
-  <p class="lead">Take peek at NYC's terrifyingly-congested airspace with my GA Summer 2013 final project: <a target="_blank" href="http://byeny.herokuapp.com/">BYENY</a>.</p>
+  <p class="lead">Take peek at NYC's terrifyingly-congested airspace with my GA Summer 2013 final project <a target="_blank" href="http://byeny.herokuapp.com/">BYENY</a>.</p>
 ---

@@ -5,5 +5,5 @@ category: Services
 title: I have thoughts about things.
 description: |
   <p class="lead">Read them on my nifty <a target="_blank"
-  href="http://spectorblog.herokuapp.com/">blog</a>, also hosted on heroku.</p>
+  href="https://spectorblog.herokuapp.com/">blog</a>. Heroku takes a few seconds to launch at first - then it's fast.</p>
 ---

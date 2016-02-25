@@ -2,8 +2,6 @@
 layout: default
 img: byeny.jpg 
 category: Services
-title: GA Summer 2013
-description: |
-  <p class="lead">My Final Data-Visualization Project at GA NYC: <a target="_blank"
-  href="http://byeny.herokuapp.com/">BYENY</a></p> 
+title: ByeNY
+  <p class="lead">Take a peek at NYC's terrifyingly-congested airspace with <a target="_blank" href="http://byeny.herokuapp.com/">BYENY</a>, my group's GA 2013 (summer) project!</p>
 ---

@@ -2,6 +2,6 @@
 layout: default
 img: byeny.jpg 
 category: Services
-title: ByeNY
-  <p class="lead">Take a peek at NYC's terrifyingly-congested airspace with <a target="_blank" href="http://byeny.herokuapp.com/">BYENY</a>, my group's GA 2013 (summer) project!</p>
+title: Data Visualization
+  <p class="lead">Take peek at NYC's terrifyingly-congested airspace with my group's final project for Genral Assembly's 2013 Full Stack Developer course: <a target="_blank" href="http://byeny.herokuapp.com/">BYENY</a>.</p>
 ---
